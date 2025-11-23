@@ -103,12 +103,12 @@ Essa escolha permite:
 
 | Etapa | Descrição | Status | Entrega Estimada |
 |-------|------------|--------|------------------|
-| 1 | Requisitos e Diagrama de Casos de Uso | ⏳ Em andamento | 05/11/2025 |
-| 2 | Interface | 🔜 Planejada | 10/11/2025 |
-| 3 | Gestão de Configuração | 🔜 Planejada | 12/11/2025 |
-| 4 | Métricas | 🔜 Planejada | 15/11/2025 |
-| 5 | SCRUM | 🔜 Planejada | 18/11/2025 |
-| 6 | Teste | 🔜 Planejada | 19/11/2025 |
+| 1 | Requisitos e Diagrama de Casos de Uso | ✅ Feita | 05/11/2025 |
+| 2 | Interface | ✅ Feita | 10/11/2025 |
+| 3 | Gestão de Configuração | ✅ Feita | 12/11/2025 |
+| 4 | Métricas | ✅ Feita | 15/11/2025 |
+| 5 | SCRUM | ✅ Feita | 18/11/2025 |
+| 6 | Teste | ✅ Feita | 19/11/2025 |
 
 ---
 
