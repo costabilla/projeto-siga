@@ -2,7 +2,7 @@
 
 **Disciplina:** Modelagem e Desenvolvimento de Software  
 **Atividade:** Exercício 12 – Aplicativo Mobile  
-**Data de entrega:** 19 de novembro de 2025  
+**Data de entrega:** 24 de novembro de 2025  
 **Professor responsável:** Anderson Luiz Barbosa
 
 ---
